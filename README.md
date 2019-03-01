@@ -45,3 +45,4 @@ make run
 
 Results will be stored in a file named results.html in the same directory. It can be opened in a browser to view results and logs
 
+*** Note: Running tests without changing the petIDtoDelete will result in DELETE test case failure ***
